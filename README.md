@@ -4,7 +4,7 @@ CodePath WEB103 Final Project
 
 Designed and developed by: [Abil Shrestha & Aashil Ahmad]
 
-🔗 Link to deployed app:
+🔗 Link to deployed app: https://playpal-client-app.up.railway.app/
 
 ## About
 
