@@ -41,7 +41,7 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
     - [X] Components broken down into categories, including Page and Component types
     - [X] Corresponding container components and presenter components as appropriate
 - [X] The project includes dynamic routes for both frontend and backend apps
-- [ ] The project is deployed on Railway with all pages and features working
+- [X] The project is deployed on Railway with all pages and features working
 
 ### Custom Features
 
@@ -50,7 +50,7 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 - [X] The project gracefully handles errors
 - [X] The project includes a one-to-one database relationship
 - [X] The project includes a slide-out pane or modal as appropriate for your use case
-- [ ] The project includes a unique field within the join table
+- [X] The project includes a unique field within the join table
 - [ ] The project includes a custom non-RESTful route with corresponding controller actions
 - [X] The project allows filtering and/or sorting as appropriate for your use case
 - [ ] Data is automatically generated in response to a certain event or user action. Examples include generating a default inventory for a new user starting a game or creating a starter set of tasks for a user creating a new task app account
@@ -70,7 +70,7 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 - [X] 🍞 [Toast messages](https://www.patternfly.org/v3/pattern-library/communication/toast-notifications/index.html) deliver simple feedback in response to user events
 
 ## Final Demo GIF
-
+<img src="https://github.com/Abil-Shrestha/web103_finalproject/blob/main/client/public/final-Demo4.gif" alt="final_demo" />
 
 
 ## Reflection
